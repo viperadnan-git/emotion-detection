@@ -47,7 +47,7 @@ def webcam(device):
                     ),
                     cv2.FONT_HERSHEY_SIMPLEX,
                     0.8,
-                    (255, 0, 0),
+                    (0, 155, 255),
                     1,
                     cv2.LINE_AA,
                 )
